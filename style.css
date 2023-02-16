@@ -8,9 +8,11 @@ body {
     font-family: sans-serif ;
 }
 img {
-    border-radius: 20px;
+    border-radius: 50%;
     width: 320px;
     height: 320px;
+    border: 1px solid limegreen
+
 }
 
 h1 {
@@ -41,6 +43,11 @@ a {
     display: block;
     border-radius: 5px;
    
+}
+
+a:hover {
+    background-color: white;
+    color: limegreen;
 }
 
 footer {
