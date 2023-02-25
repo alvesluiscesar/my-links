@@ -9,8 +9,8 @@ body {
 }
 img {
     border-radius: 50%;
-    width: 320px;
-    height: 320px;
+    width: 280px;
+    height:280px;
     border: 1px solid rgb(0, 140, 255)
 
 }
@@ -54,7 +54,7 @@ footer {
     color: white;
 }
 .container {
-    width: 320px;
+    width: 280px;
     text-align: center;
     margin-top: 41px;
     margin-left: auto;
